@@ -1,0 +1,1 @@
+ /Users/mraugst/StudioProjects/hls_test/flutter_app/jokee_single_serving/.dart_tool/flutter_build/a5f0e3f74d6b4099b11ceb4c1b1779c3/native_assets.yaml: 
